@@ -78,7 +78,7 @@ A breakdown of revenue by **customer segment** highlights key drivers:
  
  
 - **Small Business (21%)** – Modest profits in Q1, **significantly stronger performance in later months (21-26%).**
-- 
+
 ![Image](https://github.com/user-attachments/assets/2ccec213-99ed-43c4-8387-961cab7141e9)
 
 
