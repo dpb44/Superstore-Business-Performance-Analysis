@@ -17,8 +17,3 @@ This project is a **comprehensive sales dashboard** built entirely in **Microsof
 ---
 
 
-### **2. Improve Logistics & Delivery**
-
-- Optimize delivery for **low-priority orders** to bring them closer to the
-
-
