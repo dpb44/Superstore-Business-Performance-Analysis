@@ -57,7 +57,6 @@ A **month-over-month analysis** reveals significant fluctuations in profitabilit
 | May       | 0.3M          | 22%            | **Most profitable month**—suggesting strong demand and better product mix. |  
 | June      | 0.3M          | 19%            | Profit remains strong, **sales led by Corporate and Home Office segments.** |  
 
-
 **Takeaway:** The **inconsistent profitability** in Q1 (Jan–March) suggests **poor cost control or heavy discounting**, whereas **April–June saw stabilization**, potentially due to refined sales strategies. This highlights a **need to reassess pricing and discount structures, particularly in Q1.**  
 
 ---
@@ -65,18 +64,37 @@ A **month-over-month analysis** reveals significant fluctuations in profitabilit
 ### **Customer Segment Performance – Revenue Contribution & Stability**  
 A breakdown of revenue by **customer segment** highlights key drivers:  
 
-- **Corporate (35%)** – Largest contributor but shows **profitability inconsistencies** (losses in January and March).  
-- **Home Office (24%)** – Second-largest contributor but with **unsteady profit margins** (loss in April).  
-- **Consumer (21%)** – Generally profitable, except for **March (-23%) loss**.  
-- **Small Business (21%)** – Modest profits in Q1, **significantly stronger performance in later months (21-26%).**  
+- **Corporate (35%)** – Largest contributor but shows **profitability inconsistencies** (losses in January and March).
+
+![Image](https://github.com/user-attachments/assets/07a4a172-da99-4242-8445-387fa536dbb3)
+  
+- **Home Office (24%)** – Second-largest contributor but with **unsteady profit margins** (loss in April).
+
+![Image](https://github.com/user-attachments/assets/0eaeb81c-b2f4-4b4a-b9b4-af7263cac9af)
+
+- **Consumer (21%)** – Generally profitable, except for **March (-23%) loss**.
+
+![Image](https://github.com/user-attachments/assets/bb05533c-0576-46b4-9d8d-5f430928ee87) 
+ 
+ 
+- **Small Business (21%)** – Modest profits in Q1, **significantly stronger performance in later months (21-26%).**
+- 
+![Image](https://github.com/user-attachments/assets/2ccec213-99ed-43c4-8387-961cab7141e9)
+
 
 **Takeaway:** **Corporate & Home Office segments require margin optimization.** Bulk orders from Corporate may be heavily discounted, reducing profitability. Meanwhile, **Small Business is emerging as a high-growth segment** in Q2, warranting **targeted engagement strategies.**  
 
 ---
 
 ### **Order Trends – When Are Sales Happening?**  
-📊 **Weekly Order Spikes:** **Consistent increases in sales occur in Weeks 4 (Jan, May), Week 5 (March), and Week 2 (April, June).**  
-📆 **Day-Wise Performance:** **Saturday (24%) and Friday (16%) dominate sales**, while mid-week sales remain lower.  
+**Weekly Order Spikes:** **Consistent increases in sales occur in Weeks 4 (Jan, May), Week 5 (March), and Week 2 (April, June).**  
+
+![image](https://github.com/user-attachments/assets/b699512c-824f-4191-891e-7451643a3a4a)
+
+ **Day-Wise Performance:** **Saturday (24%) and Friday (16%) dominate sales**, while mid-week sales remain lower. 
+
+ ![image](https://github.com/user-attachments/assets/64b702b9-9a12-4ee1-bc81-8d8de7f6b571)
+
 
 **Analysis:**  
 - High **weekend sales** indicate a **strong B2C demand cycle**—potential opportunity to introduce **midweek promotions** to balance revenue distribution.  
@@ -94,7 +112,7 @@ A **manager-wise revenue breakdown** exposes regional disparities:
 | **Sam (South)**      | 19%                  | **Negative (-4%)**    | **Major losses in Feb (-24%) & March (-27%).** |  
 | **William (West)**   | 27%                  | **Stable (14%)**      | Weak April (-6% profit). |  
 
-🔴 **Critical Concern: Sam (South) is underperforming (-4% loss overall).**  
+**Critical Concern: Sam (South) is underperforming (-4% loss overall).**  
 - **February (-24%) and March (-27%) losses** indicate possible **weak regional demand, operational inefficiencies, or high return rates.**  
 - Needs **urgent intervention—product realignment, price optimization, and region-specific marketing.**  
 
@@ -102,29 +120,6 @@ A **manager-wise revenue breakdown** exposes regional disparities:
 
 ---
 
-### **Key Recommendations – Data-Driven Business Actions**  
-
-1️⃣ **Optimize Corporate Segment Profitability** – Reevaluate bulk discounting and introduce **tiered pricing strategies** to improve margins.  
-
-2️⃣ **Address Q1 Profitability Gaps** – **January and March require margin-focused strategies**, possibly limiting deep discounts and optimizing product mix.  
-
-3️⃣ **Expand Small Business Focus** – Strong Q2 performance suggests an opportunity for **segment-specific promotions and loyalty incentives.**  
-
-4️⃣ **Balance Sales Distribution** – **Midweek promotions** can reduce dependency on **weekend peaks.**  
-
-5️⃣ **Regional Strategy for South** – **Loss-making region requires targeted adjustments** in product pricing, customer engagement, and potential cost restructuring.  
-
----
-
-### **Visualizations to Support Analysis**  
-To effectively present these insights, consider including:  
-✅ **Stacked Bar & Line Charts:** Revenue, cost, and profit trends over months.  
-✅ **Bar Charts:** Customer segment contributions and profitability.  
-✅ **Pie Chart:** Day-wise sales distribution.  
-✅ **Regional Heatmap:** Manager performance by location.  
-
-**Conclusion:**  
-Superstore’s first half of 2015 highlights **inconsistent profitability, regional disparities, and shifting segment performances.** While May and June saw **profit stabilization**, **losses in Q1 and South region underperformance remain key challenges.** Addressing these with **data-driven pricing, regional optimization, and segment-focused strategies** will be critical for sustainable growth.
 
 
 
